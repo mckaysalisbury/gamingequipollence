@@ -26,13 +26,12 @@ body{
 #limiter {
     margin: auto;
     width:90%;
-    max-width: 1920px;
+    max-width: 1400px;
     text-align: center;
 }
 #blocksArea{
     margin: auto;
 }
-
 
 #contact, #custom {
     background-color: #69e;
@@ -47,50 +46,29 @@ body{
 }
 
 #card {
-    background-color: #f0f;
+    background-color: #69e;
 }
 
 #board {
-    background-color: #f0f;
+    background-color: #c25b56;
 }
 
 #hunt {
-    background-color: #fed;
+    background-color: burlywood;
 }
 
 #video {
-    background-color: #f0f;
+    background-color: #222;
+    color: #fff;
+}
+
+#languages {
+    background-color: #c25b56;
 }
 
 #partner {
     background-color: #33f;
     color: white;
-}
-
-
-#resume{
-    background-color: #6895c1;
-    color: white
-}
-#stackOverflow { 
-    background-color: white;
-}
-
-#stackOverflowCareers{
-    background-color: white;
-}
-
-#linkedIn{
-    background-color: #95d4ea;
-}
-
-#facebook {
-    background-color: #3b5698;
-    color: white;
-}
-
-#wikipedia{
-    background-color: #f6f6f6;
 }
 
 /* this overrides specific behavior for all blocks*/
